@@ -17,3 +17,9 @@ Sealed Class.
 
 https://github.com/user-attachments/assets/4422b7b8-582a-4a0e-8153-2bd98f8a35b4
 
+# Contributing
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
